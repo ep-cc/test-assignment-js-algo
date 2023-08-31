@@ -1,0 +1,19 @@
+{
+  "name": "test-assignment-js-algo",
+  "version": "1.0.0",
+  "description": "Implement the `solve` function in the starter code file `solution.js` to compute and return the sum of two largest elements of an array. If the array has only one element, return that as answer. If the array is empty, return zero.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "codecool:ep-cc/test-assignment-js-algo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
